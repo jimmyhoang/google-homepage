@@ -1,0 +1,85 @@
+.middle-section {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 15%;
+    width: 550px;
+    text-align: center;
+    height: 550px;
+
+    -webkit-appearance: none;
+
+    display:inline-block;
+
+}
+
+.google-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-bar {
+    position: relative;
+    width:80%;
+    padding: 9px 20px;
+    top: 30px;
+
+    outline-color: transparent;
+    outline-style: none;
+
+    max-width: 80%;
+
+    font-size: 14pt;
+    background-color: transparent;
+
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.button {
+    position: relative;
+    padding: 5px;
+    border: 2px solid rgb(242, 242, 242);
+    background-color: #f2f2f2;
+    color: #757575;
+    font-weight: bold;
+    font-size: 13px;
+    font-style: normal;
+    padding: 6px 14px;
+    height: 32px;
+    
+}
+
+#submit-search {
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+#feeling-lucky {
+    
+}
+
+.micbutton {
+    border: none;
+    background-color: transparent;
+    background-size: 24px;
+    width: 12px;
+    height: 12px;
+    vertical-align: middle;
+    margin-left: 410px;
+    margin-top: -15px;
+}
+
+.micimage {
+    width: 24px;
+    height: 24px;
+}
+
+.googletext {
+    font-size: 11pt;
+    margin-top: 30px;
+}
